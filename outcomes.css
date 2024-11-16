@@ -1,0 +1,24 @@
+
+
+.outcomes-section h2 {
+    font-size: 28px;
+    color: black;
+}
+
+
+.outcomes-section p {
+    font-size: 18px;
+    color: black;
+    line-height: 1.6;
+}
+
+.outcomes-section img {
+    max-width: 70%;
+    height: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.outcomes-section ol {
+    text-align: left;
+    
+}
